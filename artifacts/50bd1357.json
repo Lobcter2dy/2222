@@ -1,0 +1,38 @@
+{
+  "id": "50bd1357",
+  "name": "Simple Card",
+  "description": "Простая карточка с заголовком и контентом",
+  "icon": "▢",
+  "category": "cards",
+  "created": "2026-01-05T01:52:36.780966",
+  "modified": "2026-01-05T01:52:36.780976",
+  "html": "",
+  "css": "",
+  "js": "",
+  "elements": [
+    {
+      "type": "title",
+      "name": "Заголовок",
+      "icon": "T"
+    },
+    {
+      "type": "content",
+      "name": "Контент",
+      "icon": "¶"
+    },
+    {
+      "type": "footer",
+      "name": "Подвал",
+      "icon": "▬"
+    }
+  ],
+  "main_element": null,
+  "style": {
+    "bg_color": "#1a1a1a",
+    "text_color": "#ffffff",
+    "accent_color": "#4a90d9",
+    "border_color": "#333333"
+  },
+  "default_width": 300,
+  "default_height": 200
+}

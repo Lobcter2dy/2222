@@ -1,0 +1,48 @@
+{
+  "id": "052005e2",
+  "name": "Directory Browser",
+  "description": "Браузер директорий с древовидной структурой",
+  "icon": "📁",
+  "category": "navigation",
+  "created": "2026-01-05T01:52:36.780693",
+  "modified": "2026-01-05T01:52:36.780711",
+  "html": "",
+  "css": "",
+  "js": "",
+  "elements": [
+    {
+      "type": "header",
+      "name": "Заголовок",
+      "icon": "▬"
+    },
+    {
+      "type": "breadcrumb",
+      "name": "Путь",
+      "icon": "→"
+    },
+    {
+      "type": "tree",
+      "name": "Дерево",
+      "icon": "☰"
+    },
+    {
+      "type": "sidebar",
+      "name": "Боковая панель",
+      "icon": "▮"
+    },
+    {
+      "type": "context_menu",
+      "name": "Контекстное меню",
+      "icon": "▤"
+    }
+  ],
+  "main_element": null,
+  "style": {
+    "bg_color": "#0f0f0f",
+    "text_color": "#e0e0e0",
+    "accent_color": "#32b8c6",
+    "border_color": "#2a2a2a"
+  },
+  "default_width": 600,
+  "default_height": 400
+}

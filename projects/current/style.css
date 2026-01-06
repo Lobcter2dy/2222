@@ -1,0 +1,32 @@
+/* Generated Styles */
+
+:root {
+    --primary-color: #ffffff;
+    --background-color: #000000;
+    --border-color: #333333;
+}
+
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+.main-container {
+    position: relative;
+    width: 800px;
+    height: 600px;
+    background-color: #000000;
+    border: 1px solid #333333;
+    margin: 0 auto;
+}
+
+.image-1 {
+    position: absolute;
+    left: 106px;
+    top: 29px;
+    width: 555px;
+    height: 498px;
+    background-color: #8d96a0;
+    border: 1px solid #5a5a5a;
+}

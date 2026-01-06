@@ -1,0 +1,38 @@
+{
+  "id": "1ece5d54",
+  "name": "Button Group",
+  "description": "Группа кнопок с действиями",
+  "icon": "▣",
+  "category": "forms",
+  "created": "2026-01-05T01:52:36.781120",
+  "modified": "2026-01-05T01:52:36.781127",
+  "html": "",
+  "css": "",
+  "js": "",
+  "elements": [
+    {
+      "type": "btn_primary",
+      "name": "Основная",
+      "icon": "●"
+    },
+    {
+      "type": "btn_secondary",
+      "name": "Вторичная",
+      "icon": "○"
+    },
+    {
+      "type": "btn_danger",
+      "name": "Опасная",
+      "icon": "◉"
+    }
+  ],
+  "main_element": null,
+  "style": {
+    "bg_color": "#1a1a1a",
+    "text_color": "#e0e0e0",
+    "accent_color": "#32b8c6",
+    "border_color": "#2a2a2a"
+  },
+  "default_width": 250,
+  "default_height": 50
+}

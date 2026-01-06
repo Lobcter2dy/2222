@@ -1,0 +1,22 @@
+{
+  "id": "344376d6",
+  "name": "Новый артефакт",
+  "description": "",
+  "icon": "◆",
+  "category": "general",
+  "created": "2026-01-05T01:57:00.787773",
+  "modified": "2026-01-05T01:57:00.787800",
+  "html": "",
+  "css": "",
+  "js": "",
+  "elements": [],
+  "main_element": null,
+  "style": {
+    "bg_color": "#1a1a1a",
+    "text_color": "#e0e0e0",
+    "accent_color": "#32b8c6",
+    "border_color": "#2a2a2a"
+  },
+  "default_width": 400,
+  "default_height": 300
+}
